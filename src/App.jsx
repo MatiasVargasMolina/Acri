@@ -10,7 +10,7 @@ function App() {
   return (
     <div className='h-screen w-full flex justify-center min-w-screen'>
       <Navbar></Navbar>
-      <div className='flex items-center flex-col mt-40'>      <Main></Main>
+      <div className='flex items-center flex-col mt-20'>      <Main></Main>
       <Gallery></Gallery>
       <Slider></Slider>
       </div>
