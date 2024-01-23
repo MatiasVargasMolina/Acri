@@ -12,7 +12,7 @@ function App() {
       <Navbar></Navbar>
       <div className='flex items-center flex-col mt-20'>      <Main></Main>
       <Gallery></Gallery>
-      <Slider></Slider>
+      
       </div>
     </div>
   )
